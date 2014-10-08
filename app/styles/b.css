@@ -1,0 +1,4 @@
+
+.invalid input[type=text] {
+  outline: red 1px solid;
+}
