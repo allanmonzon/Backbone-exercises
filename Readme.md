@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+## Backbone-Exercises
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+Practice excercises to learn Backbone.js
